@@ -21,24 +21,33 @@ New businesses make a registration cycle.
 The New business mentions the financial backers to contribute their organization.
 The  organization  ought  to  deal  with  the  financial backers  and  devotee  rundown  of  the  application  by utilizing Value.
 A  startup  is  a  company  or  project  undertaken  by  an entrepreneur to seek develop and validate a scalable business model.
+
+
 Company Profile:
 Organization  profile  has  been  made  by  the  New business.
 The Profile has been made as Value Weakening in light of  number  of  pioneers  put  resources  into  their organization.
 A company profile serves multiple purposes but two of its  primary  goals  are  to  connect  with  customers  and attract investors for funding opportunities.
+
+
 Investor:
 An  investor  is  an  individual  who  puts  money  into  an entity such as a business for a financial return.
 The  main  goal  of  any  investor  is  to  minimize  risk  and maximize return.
 It  is  in  contrast  with  a  speculator  who  is  willing  to invest  in  a  risky  asset  with  the  hopes  of  getting  a higher profit.
 Different  types  of  investors  invest  at  different  stages of  company  development,  and  have  different  risk profiles  and  expectations  about  their  involvement  in the company’s board and governance.
+
+
 Follower:
 The	Supporter	will	see	the	rundown	of the financial backers put resources into the organization.
 Then  will  capable  put  resources  into  specific  New business contributed by the financial backers or some other organization.
 Then the Value has been weakened in light of level of offers.
 It   can   be   easy   for   larger,   more   established corporations  to  raise  money  from  investors  or  to  take on additional debt from their lenders.
+
+
 Admin:
 The administrator will endorse for New business in light of certificate process.
 Then permit to login into the site pages.
 Then	deal	with	the	rundown	for	financial	backers	and supporters put resources into new businesses.
+
 
 System Architecture:
 ![image](https://github.com/s-yogitha/Startup-Ayush-Portal-Project/assets/85732528/f593191a-bdf1-41e9-85f2-fd43537c3edf)
