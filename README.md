@@ -35,9 +35,7 @@ Then permit to login into the site pages.
 Then	deal	with	the	rundown	for	financial	backers	and supporters put resources into new businesses.
 
 System Architecture:
-![image](https://github.com/s-yogitha/Startup-Ayush-Portal-Project/assets/85732528/f5d43094-3388-41e2-ac3e-a9061fbaa797)
-
-![image](https://github.com/s-yogitha/Startup-Ayush-Portal-Project/assets/85732528/52476cf7-ac06-40c5-9a59-8fb79e009ecf)
+![image](https://github.com/s-yogitha/Startup-Ayush-Portal-Project/assets/85732528/f5d43094-3388-41e2-ac3e-a9061fbaa797).
 ![image](https://github.com/s-yogitha/Startup-Ayush-Portal-Project/assets/85732528/9fdcfaef-5fb6-4fd0-93e6-2c8edb22fba2)
 
 ![image](https://github.com/s-yogitha/Startup-Ayush-Portal-Project/assets/85732528/ae219d74-e6fe-4241-ba32-1037631334b1)
