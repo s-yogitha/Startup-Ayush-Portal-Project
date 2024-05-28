@@ -5,11 +5,17 @@ To collaborate investors and users or Entrepreneurs in easier way through a plat
 To support business expansion.
 To  develop  the  business  concept  to  increase  revenue and provide input on earlier unsuccessful ideas.
 To  access  various  resources  required  for  starting  a business so that each one can provide their services for business improvement.
+
+
 Abstarct:
 Monetary directors are liable for the monetary strength of an  association.  They  make  monetary  reports,  direct venture  exercises,  and  foster  designs  for  the  drawn  out monetary   objectives   of   their   association.   Proprietor venture  additionally  called  proprietor's  speculation  or contributed  capital,  is  the  quantity  of  resources  that  the proprietor  places  into  the  organization.  New  companies are established by at least one business people who need to foster an item or administration for which they accept there  is  request.  The  new  business  has  enrolled  the applications  and  is supported  by  the administrator  asking  for the solicitation to financial backers. The financial backers endorse then made a check to the specific startup subsequent to examining the advancement thoughts from the new business.
+
+
 FrontEnd: J2EE(JSP),HTML,CSS,JavaScript
 Backend: Java(Servlet)
 Database: MySql
+
+
 Startup Company:
 New businesses make a registration cycle.
 The New business mentions the financial backers to contribute their organization.
@@ -35,7 +41,10 @@ Then permit to login into the site pages.
 Then	deal	with	the	rundown	for	financial	backers	and supporters put resources into new businesses.
 
 System Architecture:
-![image](https://github.com/s-yogitha/Startup-Ayush-Portal-Project/assets/85732528/f5d43094-3388-41e2-ac3e-a9061fbaa797).
+![image](https://github.com/s-yogitha/Startup-Ayush-Portal-Project/assets/85732528/f593191a-bdf1-41e9-85f2-fd43537c3edf)
+
+![image](https://github.com/s-yogitha/Startup-Ayush-Portal-Project/assets/85732528/c4a91176-b6ea-438b-a48e-7dabb7284823)
+
 ![image](https://github.com/s-yogitha/Startup-Ayush-Portal-Project/assets/85732528/9fdcfaef-5fb6-4fd0-93e6-2c8edb22fba2)
 
 ![image](https://github.com/s-yogitha/Startup-Ayush-Portal-Project/assets/85732528/ae219d74-e6fe-4241-ba32-1037631334b1)
